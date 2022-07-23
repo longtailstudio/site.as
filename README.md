@@ -6,15 +6,12 @@ https://[github-username].page.as/[repo-name]
 ```
 
 You can also use any of these other fun emoji domains:
-```
-https://[github-username].🪄✨.to/[repo-name]
 
-https://[github-username].✨🚀.to/[repo-name]
+🪄✨.to
+.✨🚀.to
+🔥🚀.to
+🦄🚀.to
 
-https://[github-username].🔥🚀.to/[repo-name]
-
-https://[github-username].🦄🚀.to/[repo-name]
-```
 
 [https://nathanclevenger.page.as/portfolio](https://nathanclevenger.page.as/portfolio)
 
