@@ -4,7 +4,7 @@
 https://[github-username].page.as/[repo-name]
 ```
 
-You can use any of these domain aliases
+You can use any of these domain aliases:
 - [apis.as](https://apis.as)
 - [apps.as](https://apps.as)
 - [blogs.sh](https://blogs.sh)
