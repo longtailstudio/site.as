@@ -17,7 +17,7 @@ You can use any of these domain aliases
 - [dev.sr](https://dev.sr)
 - [hq.sb](https://hq.sb)
 - [sh.sb](https://sh.sb)
-- [hq.sb](https://hq.sb)
+- [aı.ws](https://aı.ws)
 - [hq.sb](https://hq.sb)
 - [hq.sb](https://hq.sb)
 - [hq.sb](https://hq.sb)
