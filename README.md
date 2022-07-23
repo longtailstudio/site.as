@@ -1,4 +1,4 @@
-# Page.as - Domain Alias for GitHub Pages 🚀
+# Page.as - Domain Alias for GitHub.io [✨🚀](https://✨🚀.to)
 
 ```
 https://[github-username].github.io/[repo-name]
