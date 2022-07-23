@@ -8,10 +8,3 @@ becomes
 ```
 https://[github-username].page.as/[repo-name]
 ```
-
-You can use any of these domain aliases:
-- [🪄✨.to](https://🪄✨.to)
-- [.✨🚀.to](https://.✨🚀.to)
-- [🔥🚀.to](https://🔥🚀.to)
-- [🦄🚀.to](https://🦄🚀.to)
-
