@@ -1,11 +1,10 @@
 # page.as
-Alternative to GitHub Pages for accessing static content on Github
+
+Free domain aliases for GitHub Pages
 
 ```
 https://[github-username].page.as/[repo-name]
 ```
-
-
 
 You can use any of these domain aliases
 - [apis.as](https://apis.as)
@@ -28,10 +27,3 @@ You can use any of these domain aliases
 - [🔥🚀.to](https://🔥🚀.to)
 - [🦄🚀.to](https://🦄🚀.to)
 
-
-[https://nathanclevenger.page.as/portfolio](https://nathanclevenger.page.as/portfolio)
-
-
-```yaml
-template: https://play.tailwindcss.com/jYWZjsBrRM
-```
