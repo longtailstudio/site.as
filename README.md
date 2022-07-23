@@ -5,6 +5,8 @@ Alternative to GitHub Pages for accessing static content on Github
 https://[github-username].page.as/[repo-name]
 ```
 
+
+
 You can use any of these domain aliases
 - [apis.as](https://apis.as)
 - [apps.as](https://apps.as)
@@ -15,7 +17,12 @@ You can use any of these domain aliases
 - [dev.sr](https://dev.sr)
 - [hq.sb](https://hq.sb)
 - [sh.sb](https://sh.sb)
+- [hq.sb](https://hq.sb)
+- [hq.sb](https://hq.sb)
+- [hq.sb](https://hq.sb)
+- [hq.sb](https://hq.sb)
 - [studio.sb](https://studio.sbs)
+- [彡.co](https://彡.co)
 - [🪄✨.to](https://🪄✨.to)
 - [.✨🚀.to](https://.✨🚀.to)
 - [🔥🚀.to](https://🔥🚀.to)
