@@ -14,8 +14,6 @@ https://[github-username].✨🚀.to/[repo-name]
 https://[github-username].🔥🚀.to/[repo-name]
 
 https://[github-username].🦄🚀.to/[repo-name]
-
-https://[github-username].⚡🚀.to/[repo-name]
 ```
 
 [https://nathanclevenger.page.as/portfolio](https://nathanclevenger.page.as/portfolio)
